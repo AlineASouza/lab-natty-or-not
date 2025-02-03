@@ -1,13 +1,10 @@
-# Título do Projeto: 
+# Inteligência Artificial: Clonagem de Voz e Imagem
 
 ## 📒 Descrição
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-Roteiro e imagens gerados no copilot
-
-D-ID
+Liste as IAs Generativas e outras ferramentas usadas: copilot, ElevenLabs, D-ID
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
